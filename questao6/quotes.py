@@ -3,7 +3,7 @@ import json
 
 navegator = webdriver.Chrome()
 
-print(navegator.get('http://quotes.toscrape.com/'))
+navegator.get('http://quotes.toscrape.com/')
 
 authors = navegator.find_elements_by_class_name('author')
 
