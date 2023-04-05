@@ -20,7 +20,7 @@ Este projeto consiste na criação de sete questões de desafio para a empresa C
 ### Questão 1
 
 1. Navegue até o diretório 'spiders'
-2. Execute o seguinte comando `scrapy runspider compra.py`
+2. Execute o seguinte comando `scrapy runspider compra.py -O produtos.json`
 
 ### Questão 2
 
