@@ -1,0 +1,5 @@
+Uma Virtual Private Network (VPN) é uma rede privada virtual que permite conectar duas redes ou dispositivos por meio da internet. As VPNs da AWS permitem que você crie conexões seguras entre a sua rede local e a nuvem da AWS. Isso é útil para acessar recursos na nuvem como se eles estivessem na sua rede local e para garantir que a comunicação entre as redes seja segura.
+
+Uma Subnet é uma divisão lógica de uma rede maior em redes menores. Na AWS, as Subnets são usadas para separar recursos em diferentes partes de infraestrutura, como servidores web, bancos de dados e servidores de aplicativos. As Subnets podem ser configuradas em diferentes regiões da AWS para ajudar a otimizar o desempenho e a disponibilidade.
+
+Já os Security Groups são um recuso da AWS para controlar o tráfego de rede em instâncias EC2 e em outros recursos que aceitam tráfego de rede. Os Security Groups funcionam como um firewall virtual, permitindo que você defina regras para permitir ou bloquear tráfego de entrada e saída em instâncias EC2 e outros recursos.
